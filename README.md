@@ -1,4 +1,4 @@
-# PropertyFinder dev test
+# A solution to BoardingCards problem, using PHP
 
 Please find out [TASK.md](./TASK.md) to read the task and requirements.
 
